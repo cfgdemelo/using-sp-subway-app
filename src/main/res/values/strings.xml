@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Como Usar o Metro em SP</string>
+    <string name="initial">5 dicas para você aprender a usar o metrô em São Paulo</string>
+    <string name="tip1">DICA NÚMERO 1:\n DEIXE SEMPRE O LADO ESQUERDO DA ESCADA LIVRE!</string>
+    <string name="tip2">DICA NÚMERO 2:\n NÃO OUÇA MÚSICA SEM FONES DE OUVIDO!</string>
+    <string name="tip3">DICA NÚMERO 3:\n OFEREÇA SEU LUGAR PRA QUEM MAIS PRECISA!</string>
+    <string name="tip4">DICA NÚMERO 4:\n TENHA SEMPRE UM BILHETE OU CARTÃO EXTRA!</string>
+    <string name="tip5">DICA NÚMERO 5:\n BAIXE O APP DO METRÔ!</string>
+    <string name="buttonMain">INICIO</string>
+    <string name="nextTip">PRÓXIMA DICA</string>
+    <string name="buttonStart">COMEÇAR</string>
+</resources>

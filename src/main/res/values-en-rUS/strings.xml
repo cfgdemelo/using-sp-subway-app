@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">How to use the Subway System in São Paulo</string>
+    <string name="initial">5 tips to you learn how to use the subway in São Paulo</string>
+    <string name="tip1">TIP NUMBER 1:\n ALWAYS LET THE LADDER\'S LEFT SIDE FREE!</string>
+    <string name="tip2">TIP NUMBER 2:\n DON\'T LISTEN TO MUSIC WITHOUT EARPHONES!</string>
+    <string name="tip3">TIP NUMBER 3:\n OFFER YOUR SEAT FOR WHO ELSE NEED IT MORE!</string>
+    <string name="tip4">TIP NUMBER 4:\n ALWAYS HAVE A EXTRA TICKET OR CARD!</string>
+    <string name="tip5">TIP NUMBER 5:\n DOWNLOAD THE METRO\'S APP!</string>
+    <string name="buttonMain">MAIN MENU</string>
+    <string name="nextTip">NEXT TIP</string>
+    <string name="buttonStart">START</string>
+</resources>

@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="br.sp.gdg.comousarometroemsp.dica3">
+
+    <TextView
+        android:id="@+id/tip"
+        android:layout_width="185dp"
+        android:layout_height="wrap_content"
+        android:text="@string/tip3"
+        android:textSize="30sp"
+        android:textAlignment="center"
+        android:textStyle="bold"
+        android:layout_margin="20dp"/>
+    <ImageView
+        android:layout_toRightOf="@id/tip"
+        android:layout_width="300dp"
+        android:layout_height="150dp"
+        android:src="@drawable/bancoazul"
+        android:scaleType="center"
+        android:layout_margin="20dp"/>
+
+    <LinearLayout
+        android:layout_width="300dp"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal"
+        android:layout_alignParentBottom="true"
+        android:layout_alignParentRight="true"
+        android:layout_margin="30dp">
+        <Button
+            android:layout_toLeftOf="@id/proximo1"
+            android:id="@+id/inicio"
+            android:layout_width="0dp"
+            android:layout_weight="1"
+            android:layout_height="wrap_content"
+            android:text="@string/buttonMain"
+            android:onClick="fromBegin"/>
+        <Button
+            android:id="@+id/proximo1"
+            android:layout_width="0dp"
+            android:layout_weight="1"
+            android:layout_height="wrap_content"
+            android:text="@string/nextTip"
+            android:onClick="startTip4"/>
+    </LinearLayout>
+
+</RelativeLayout>

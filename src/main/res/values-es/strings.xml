@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Cómo usar el sistema de metro en Sao Paulo</string>
+    <string name="initial">5 dicas que usted anda buscando Aprender a usar o metrô em Sao Paulo</string>
+    <string name="tip1">DICA NUMERO 1:\n DEJE SIEMPRE EL LADO IZQUIERDO ESCALA LIBRE!</string>
+    <string name="tip2">DICA NUMERO 2:\n NO ESCUCHE MÚSICA SIN AURICULARES!</string>
+    <string name="tip3">DICA NUMERO 3:\n DAR SU LUGAR PARA QUE NECESITEN MÁS!</string>
+    <string name="tip4">DICA NUMERO 4:\n TENGA SIEMPRE UN BILLETE O TARJETA AIDICIONAL!</string>
+    <string name="tip5">DICA NUMERO 5:\n DESCARGAR EL METRO APP!</string>
+    <string name="buttonMain">INICIO</string>
+    <string name="nextTip">SIGUINTE CONSEJO</string>
+    <string name="buttonStart">COMIENZO</string>
+</resources>
